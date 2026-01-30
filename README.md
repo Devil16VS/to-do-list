@@ -43,4 +43,4 @@ Tasks are stored in `tasks.json` and automatically saved after each operation.
 
 ## License
 
-Open source project
+Open source project# simple-password-generator-
